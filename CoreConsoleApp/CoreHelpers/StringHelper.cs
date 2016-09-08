@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoreConsoleApp
+namespace System
 {
-    class Program
+    public static class StringHelper
     {
-        static void Main(string[] args)
+        public static List<int> ToInts(this string str)
         {
-            var x = "Test";
-            var y = x.ToInts();
+            return new List<int>();
 
         }
+
     }
 }
