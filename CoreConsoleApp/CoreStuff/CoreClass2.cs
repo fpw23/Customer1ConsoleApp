@@ -8,5 +8,6 @@ namespace CoreConsoleApp.CoreStuff
 {
     class CoreClass2
     {
+        public string UserName { get; set; }
     }
 }

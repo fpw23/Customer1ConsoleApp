@@ -8,5 +8,7 @@ namespace CoreConsoleApp
 {
     class CoreClass
     {
+        public string ProjectName { get; set; }
+
     }
 }
