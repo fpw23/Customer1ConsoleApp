@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreConsoleApp", "CoreConsoleApp\CoreConsoleApp.csproj", "{5ABB3CCF-D63F-4095-ADDD-E39A3EBDD33B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer1ConsoleApp", "CoreConsoleApp\Customer1ConsoleApp.csproj", "{5ABB3CCF-D63F-4095-ADDD-E39A3EBDD33B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
